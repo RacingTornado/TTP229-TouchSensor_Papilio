@@ -8,6 +8,8 @@ The 8 pins can directl be used without using any specific protocol. Each pin is 
 
 The python script is also attached in the same repository. You will have to install pyserial also.
 
-[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/tree/master/figure/images/20150713_180221.jpg)](#features)
-[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/tree/master/figure/images/20150713_180246.jpg)](#features)
-[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/tree/master/figure/images/Capture.PNG)](#features)
+[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/blob/master/figure/images/20150713_180221.jpg)](#features)
+
+20150713_180221.jpg
+[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/blob/master/figure/images/20150713_180246.jpg)](#features)
+[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/blob/master/figure/images/Capture.PNG)](#features)
