@@ -5,4 +5,9 @@ The 8 pins can directl be used without using any specific protocol. Each pin is 
 - Need to connect the two traces which are broken out  on the PCB as shown in the picture below. This post explains it well.http://itimewaste.blogspot.in/2014/12/arduino-code-for-ttp229-touch-16-button.html
 - Generate the clocks on the papilio.
 
-The python script is also attached in the same repository.
+
+The python script is also attached in the same repository. You will have to install pyserial also.
+
+[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/tree/master/figure/images/20150713_180221.jpg)](#features)
+[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/tree/master/figure/images/20150713_180246.jpg)](#features)
+[![solarized dualmode](https://github.com/RacingTornado/TTP229-TouchSensor_Papilio/tree/master/figure/images/Capture.PNG)](#features)
